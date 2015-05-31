@@ -1,5 +1,5 @@
 //
-//  Creature.m
+//  CCSprite+Creature.m
 //  GameOfLife
 //
 //  Created by Leslie Forrest on 31/05/2015.
@@ -8,7 +8,7 @@
 
 #import "Creature.h"
 
-@implementation CCSprite (Creature)
+@implementation Creature : CCSprite
 
 - (instancetype)initCreature {
     // since we made Creature inherit from CCSprite, 'super' below refers to CCSprite

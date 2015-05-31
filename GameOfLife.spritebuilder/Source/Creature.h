@@ -1,5 +1,5 @@
 //
-//  Creature.h
+//  CCSprite+Creature.h
 //  GameOfLife
 //
 //  Created by Leslie Forrest on 31/05/2015.
